@@ -42,7 +42,6 @@ A full-stack financial analysis application using Bayesian change-point modeling
 
 A React-based e-commerce application with Firebase Authentication, Firestore, shopping cart and checkout functionality, and Stripe integration.
 
-🔗 [Live Demo](https://amazon-clone-ne.netlify.app/)
 💻 [GitHub Repository](https://github.com/hawaebrahimhamid/Amazon-Clone)
 
 ## 🛠️ Technical Skills
